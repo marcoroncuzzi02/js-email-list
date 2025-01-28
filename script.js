@@ -33,4 +33,10 @@ for (let i=0; i<10; i++){
     });
 }
 
+//bonus
 
+let btn = document.getElementById('btn')
+
+btn.addEventListener('click', function () {
+    emailBlock.remove
+})
